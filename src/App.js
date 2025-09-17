@@ -14,7 +14,7 @@ function App() {
         <h2 className="text-xl font-semibold">Glowing Skin</h2>
         <p className="text-lg">A body spray for glowing skin</p>
         <p className="text-lg">Price: $30</p>
-        <button className="bg-blue-700 hover:bg-transparent border-2 border-white hover:border-2 hover:border-blue-700 hover:text-blue-700 text-white font-bold py-2 px-4 rounded">
+        <button className="bg-blue-700 hover:bg-transparent border-2 border-white hover:border-2 hover:border-black hover:text-black text-white font-bold py-2 px-4 rounded">
           Add to cart
         </button>
       </div>
